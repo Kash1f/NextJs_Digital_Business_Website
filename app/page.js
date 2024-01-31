@@ -1,9 +1,14 @@
+import Navbar from '@/src/utils/components/Navbar/Navbar';
+import './page.css'
+
 
 export default function Home() {
 
   return (
-    <div>
-      Subscribe to ZAINKEEPSCODE :)
+    <div className="App">
+
+      <Navbar/>
+    
     </div>
   );
 }
