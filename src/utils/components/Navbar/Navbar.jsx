@@ -6,7 +6,7 @@ const Navbar = () => {
    <div className="n-wrapper">
     <div className="container">
         <div className="n-container">
-
+                Navbar
         </div>
     </div>
    </div>

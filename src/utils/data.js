@@ -12,7 +12,7 @@ export const HeroData = [
   {
     src: "hero/person3.jpg",
     bg: "#00c9f7",
-    delay: 0.2,
+    delay: 0.2, 
   },
   {
     src: "hero/person4.jpg",
@@ -72,7 +72,7 @@ export const ourDiffFeatures = [
   {
     icon: "/OurDiff/Frame-2.png",
     title: "value accelerating",
-    des: "On demand expertise to supercharge growth in areas that are hard to access for early stage founders",
+    des: "On demand expertise to supercharge growth in areas that are hard to access for early level founders",
   },
 ];
 
@@ -85,7 +85,7 @@ export const hitFeatures = [
   {
     icon: "/howItWorks/Frame-1.png",
     title: "Get Funded",
-    des: "Get a term sheet with upto 3 funding offers. Select option that best suits and complete onboarding to receive funds in days",
+    des: "Get a term sheet with upto 3 funding offers. Select option that looks best and complete onboarding to receive funds in days",
   },
   {
     icon: "/howItWorks/Frame-2.png",
